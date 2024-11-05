@@ -1,0 +1,1 @@
+ALTER TABLE PostTable ADD COLUMN thumbnail TEXT NOT NULL DEFAULT '';

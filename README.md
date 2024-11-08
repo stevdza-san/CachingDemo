@@ -3,5 +3,5 @@
   <a href="" align="center">YouTube Tutorial</a>
 </p>
 <p align="center">
-  <img src="IMAGES/thumbnail.png" href="">
+  <img src="ASSETS/thumbnail.png" href="">
 </p>
